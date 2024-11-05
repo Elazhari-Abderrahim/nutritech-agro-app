@@ -30,7 +30,7 @@ Installation
 Clonez le dépôt :
 bash
 Copier le code
-git clone https://github.com/abderrahim07/nutritech-argo.git
+git clone https://github.com/Elazhari-Abderrahim/nutritech-agro-app.git
 Installez les dépendances du backend et du frontend :
 bash
 Copier le code
